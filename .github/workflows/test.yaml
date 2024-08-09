@@ -2,7 +2,7 @@
 on: 
     push:
         branches:
-            - main
+            - branch-2
     
 jobs:
     log-on-console:
